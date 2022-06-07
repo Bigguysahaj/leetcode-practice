@@ -1,2 +1,3 @@
 # leetcode-practice
-practicing leetcode
+twosum = ✔️ [1 hour 28 mins]
+
