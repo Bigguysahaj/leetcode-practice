@@ -1,0 +1,12 @@
+Time taken = 2 hours 12 minutes
+
+1 hour 14 minutes = struggling with the idea, relearning linked list and how to use it effectively.
+58 minutes = of running and debugging.
+
+Approach :- 
+* Using the basic idea of base 10 addition, and the carrying concept/
+* Utilized dummy head/(temp head) in the answer linked list for efficiency
+* Used terenirary operators to fix mismatched digits
+* iterating through both the list at the same time, adding each element with carried value.
+* If carried, add to the sum and remove from carried
+* Once done delete carried, delete dummy head and print result
